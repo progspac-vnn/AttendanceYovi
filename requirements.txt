@@ -13,7 +13,7 @@ oauthlib==3.1.1
 packaging==21.3
 Pillow==9.3.0
 pipreqs==0.4.11
-pypiwin32==223
+
 Pyrebase4==4.6.0
 python-dateutil==2.8.2
 python-decouple==3.5
